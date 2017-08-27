@@ -1,0 +1,1 @@
+# Ionic-3-Facebook-Login-and-Logout-with-Firebase-Displaying-User-Data
